@@ -20,3 +20,48 @@ body {
     text-align: center;
     font-family:Tahoma;
    }
+
+   a:hover, a:active {
+    background-color: rgb(172, 54, 54);
+    color: rgb(77, 5, 5);
+
+  }
+
+  h1 {
+    color: brown;
+    text-align: center;
+    text-decoration: underline;
+  }
+
+h2 {
+  color: brown;
+  text-align: center;
+  text-decoration: underline;
+}
+
+li > span {
+  font-family: impact;
+  color: brown;
+ }
+
+ div > p > a {
+  text-decoration: none; 
+  color: brown;
+ }
+
+ div > a {
+  text-decoration: none; 
+  color: brown;
+ }
+
+ footer {
+    background-color: brown;
+   }
+
+  p > span {
+    font-size: 30px;
+   }
+  
+  nav li:nth-child(2) {
+   font-size: 20px;
+  }
