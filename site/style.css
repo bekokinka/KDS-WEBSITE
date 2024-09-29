@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(222, 184, 135);
+  }
+  
+  nav {
+   background-color: brown
+  }
+
+  nav li {
+    list-style: none;
+   }
+  
+ nav a:link, nav a:visited {
+    text-decoration: none; 
+    color: brown;
+    background-color: rgb(222, 184, 135);
+    border: 2px solid brown;
+    display: block;
+    width: 200px;
+    text-align: center;
+    font-family:Tahoma;
+   }
